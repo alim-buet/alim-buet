@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Alim here</h1>
-<h3 align="center">A CS enthusiast who loves to solve problems and play with tools. Currently perusing my undergrad from BUET</h3>
+<h3 align="center">A CS enthusiast who loves to solve problems and play with tools. Currently pursuing my undergrad from BUET</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
@@ -8,11 +8,9 @@
 - 🔭 I’m currently working on a **Database project using Node.js, React, and PostgreSQL**
 - 🌱 I’m currently learning **backend development, database design, and system architecture**
 - 📫 How to reach me: **mohammedalimuddin2004@gmail.com**
-- ⚡ Free Joke: Debugging is like that detective story where the detective kill the victim and then pretend to find the killer 
+- ⚡ Free Joke: Debugging is like that detective story where the detective kills the victim and then pretends to find the killer 😅
 
 ---
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -30,15 +28,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alim-buet&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alim-buet&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -46,15 +43,15 @@
 ## ⚡ Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alim-buet&theme=react-dark" alt="Activity Graph" />
 </p>
 
 ---
 
-## 👁️ Profile Views
+## 👁️ Profile Views (approximate)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=alim-buet&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
