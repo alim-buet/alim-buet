@@ -42,8 +42,9 @@
 
 ## ⚡ Recent Activity
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alim-buet&theme=react-dark" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alim-buet&theme=react-dark" alt="Activity Graph" />
 </p>
 
 ---
